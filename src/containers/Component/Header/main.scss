@@ -1,0 +1,54 @@
+.naV {
+     font-family: 'Oranienbaum', serif;
+    // font-family: 'Vidaloka', serif; 
+    /* font-family: 'Nanum Myeongjo', serif; */
+    /* font-family: 'Jost', sans-serif; */
+    // font-family: 'Nanum Gothic', sans-serif; 
+    font-stretch: extra-condensed;
+   margin-bottom: 0;
+   padding: 20px 20px 5px 20px;
+   border-radius: 0;
+   background: transparent;
+   position: sticky;
+   top: 0;
+  
+  
+   
+    h5 {
+        font-weight: 300;
+        //opacity: 0.9;
+    }
+  a {
+      color: #180A0A;
+  }
+  .iconShop {
+    opacity: 0.9;
+  }
+}
+.activeNav {
+position: sticky;
+background: rgba(255, 255, 255, 0.9);
+box-shadow: 0 1px 9px rgba(255, 253, 254, 0.2);  
+z-index: 999;  // The z-index property specifies the stack order of an element.
+// An element with greater stack order is always in front of an element with a lower stack order. 
+
+}
+
+
+.logo{
+    margin-left: 25%; 
+   
+    h1 {
+               font-family: 'Oranienbaum', serif;
+           /* font-family: 'Vidaloka', serif; */
+           /* font-family: 'Nanum Myeongjo', serif; */
+           /* font-family: 'Jost', sans-serif; */
+           /* font-family: 'Nanum Gothic', sans-serif; */
+            font-stretch:ultra-condensed;
+           font-weight: 400;
+           color: #180A0A;
+          
+       
+    }
+}
+ 

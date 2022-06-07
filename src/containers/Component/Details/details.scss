@@ -1,0 +1,26 @@
+#outerDiv {
+    margin: 5em;
+    
+}
+
+h3 {
+    color: #1B1A17;
+    font-weight: 400;
+    opacity: 0.8;
+    font-family: 'Jost', sans-serif;
+}
+h4 {
+    font-weight: 400;
+    font-family: 'Jost', sans-serif;
+    margin-top: 0;
+}
+#parent {
+    position: flex;
+    flex-direction: row;
+}
+#child {
+    width: 50%;
+    height: 300;
+    width: 500;
+    text-align: center;
+}

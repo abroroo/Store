@@ -1,0 +1,46 @@
+h3 {
+  font-size: 1.2em;
+  font-weight: 600;
+  font-stretch: condensed;
+  opacity: 100%;
+  margin-bottom: 20px;
+}
+.title-text {
+  margin: 20px 0 0 0;
+}
+.itemside {
+  margin: 50px 50px 0 50px;
+}
+.cart-title {
+  text-align: left;
+  padding-left: 3em;
+}
+.productColTitle {
+  text-align: left;
+  padding-left: 3.4em;
+}
+.main-div {
+  margin: 50px;
+  display: flex;
+}
+.total-table {
+  vertical-align:bottom;
+  text-align:center;
+  position: sticky;
+  width: 150px;
+ }
+
+ .cont-purch-buttons {
+display: flex;
+margin: 50px;
+
+ }
+
+ .continue-button {
+   position: absolute;
+   left: 0;
+ }
+.purchase-button {
+  position: absolute;
+  right: 0;
+}

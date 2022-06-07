@@ -1,0 +1,70 @@
+.headerCustom {
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('./images/wide-red-dress.jpg');
+    height: 750px;
+        
+}
+
+.capital {
+    text-decoration: underline;
+    color: #180A0A;
+    
+}
+.capital:hover {
+    color: #180A0A;
+    opacity: 0.9;
+    text-decoration: underline;
+}
+.text-in-between {
+    margin: 50px 0 50px 0;
+    h1 {
+         font-weight: 300;
+    }
+    p {
+        font-size: 16px;
+    }
+   
+}
+
+.catalog {
+    display: flex;
+    flex-direction: row;
+    margin: 50px 0 50px 0;
+    .white-dress {
+        width: 50%;
+        padding-left: 125px; 
+    }
+    .black-dress {
+        width: 50%;
+        padding-right: 125px;
+    }
+    h2 {
+        font-weight: 200;
+    }
+    a {
+        text-decoration: underline;
+    color: #180A0A;
+    
+    }
+}
+
+.wide-img {
+    background-size: cover;
+    background-position: center;
+    background-image: url('./images/wide-two-women3.jpg');
+    height: 600px;
+}
+.wide-img2 {
+    background-size: cover;
+    background-position: center;
+    background-image: url('./images/wide-evening-dress.jpg');
+    height: 600px;
+}
+.wide-img3 {
+    background-size: cover;
+    background-position: center;
+    background-image: url('./images/wordrobe.jpg');
+    height: 600px;
+}
