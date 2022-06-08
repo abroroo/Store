@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.b9376861.css",
-    "main.js": "/react-gh-pages/static/js/main.31d1c163.js",
-    "static/media/white-dress2.jpg": "/react-gh-pages/static/media/white-dress2.433e61774d092509cffd.jpg",
-    "static/media/wide-two-women3.jpg": "/react-gh-pages/static/media/wide-two-women3.10943ee6d7444521b909.jpg",
-    "static/media/black-dress-women.jpg": "/react-gh-pages/static/media/black-dress-women.a7f66dfe2177d64e7d78.jpg",
-    "static/media/evening-dress.jpg": "/react-gh-pages/static/media/evening-dress.1f8df3b75c91be8f75cb.jpg",
-    "static/media/white-indian.jpg": "/react-gh-pages/static/media/white-indian.0fa36b2985e595b8dd1a.jpg",
-    "static/media/black-indian.jpg": "/react-gh-pages/static/media/black-indian.c2eeda5a621bafcdae8e.jpg",
-    "static/media/wide-red-dress.jpg": "/react-gh-pages/static/media/wide-red-dress.c3158f9a0b97e158ca8f.jpg",
-    "static/media/wordrobe.jpg": "/react-gh-pages/static/media/wordrobe.18c3270b36954e4c6e71.jpg",
-    "static/media/white-green-women.jpg": "/react-gh-pages/static/media/white-green-women.a8a6a0e85b32218ba8d7.jpg",
-    "static/media/wide-evening-dress.jpg": "/react-gh-pages/static/media/wide-evening-dress.ae38bed2c320b2be6701.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.b9376861.css.map": "/react-gh-pages/static/css/main.b9376861.css.map",
-    "main.31d1c163.js.map": "/react-gh-pages/static/js/main.31d1c163.js.map"
+    "main.css": "/Store/static/css/main.3e8c57af.css",
+    "main.js": "/Store/static/js/main.65c56fd2.js",
+    "static/media/white-dress2.jpg": "/Store/static/media/white-dress2.433e61774d092509cffd.jpg",
+    "static/media/wide-two-women3.jpg": "/Store/static/media/wide-two-women3.10943ee6d7444521b909.jpg",
+    "static/media/black-dress-women.jpg": "/Store/static/media/black-dress-women.a7f66dfe2177d64e7d78.jpg",
+    "static/media/evening-dress.jpg": "/Store/static/media/evening-dress.1f8df3b75c91be8f75cb.jpg",
+    "static/media/white-indian.jpg": "/Store/static/media/white-indian.0fa36b2985e595b8dd1a.jpg",
+    "static/media/black-indian.jpg": "/Store/static/media/black-indian.c2eeda5a621bafcdae8e.jpg",
+    "static/media/wide-red-dress.jpg": "/Store/static/media/wide-red-dress.c3158f9a0b97e158ca8f.jpg",
+    "static/media/wordrobe.jpg": "/Store/static/media/wordrobe.18c3270b36954e4c6e71.jpg",
+    "static/media/white-green-women.jpg": "/Store/static/media/white-green-women.a8a6a0e85b32218ba8d7.jpg",
+    "static/media/wide-evening-dress.jpg": "/Store/static/media/wide-evening-dress.ae38bed2c320b2be6701.jpg",
+    "index.html": "/Store/index.html",
+    "main.3e8c57af.css.map": "/Store/static/css/main.3e8c57af.css.map",
+    "main.65c56fd2.js.map": "/Store/static/js/main.65c56fd2.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9376861.css",
-    "static/js/main.31d1c163.js"
+    "static/css/main.3e8c57af.css",
+    "static/js/main.65c56fd2.js"
   ]
 }
