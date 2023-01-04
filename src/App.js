@@ -28,21 +28,21 @@ function App() {
        <Header />
         <Routes>
         
-      <Route exact path="/" element={<Home />} />
-      <Route exact path="/men/product/:productId" element={<ProductDetails />} />
-      <Route exact path="/women/product/:productId" element={<ProductDetails />} />
-      <Route exact path="/accessories/product/:productId" element={<ProductDetails />} />
-      <Route exact path="/men/product/:productId/cart" element={<Cart/>} />
-      <Route exact path="/women/product/:productId/cart" element={<Cart/>} />
-      <Route exact path="/accessories/product/:productId/cart" element={<Cart/>} />
-      <Route exact path="/men" element={<Men />} />
-      <Route exact path="/women" element={<Women />} />
-      <Route path="/accessories" element={<Accesories />} />
-      <Route exact path="/cart" element={<Cart />} />
-     <Route exact path="/men/product/:productId/cart/checkout" element={<Checkout />} />
-     <Route exact path="/women/product/:productId/cart/checkout" element={<Checkout />} />
-     <Route exact path="/accessories/product/:productId/cart/checkout" element={<Checkout />} />
-     <Route exact path="/exam" element={<Exam />} />
+      <Route exact path="/Store" element={<Home />} />
+      <Route exact path="/Store/men/product/:productId" element={<ProductDetails />} />
+      <Route exact path="/Store/women/product/:productId" element={<ProductDetails />} />
+      <Route exact path="/Store/accessories/product/:productId" element={<ProductDetails />} />
+      <Route exact path="/Store/men/product/:productId/cart" element={<Cart/>} />
+      <Route exact path="/Store/women/product/:productId/cart" element={<Cart/>} />
+      <Route exact path="/Store/accessories/product/:productId/cart" element={<Cart/>} />
+      <Route exact path="/Store/men" element={<Men />} />
+      <Route exact path="/Store/women" element={<Women />} />
+      <Route path="/Store/accessories" element={<Accesories />} />
+      <Route exact path="/Store/cart" element={<Cart />} />
+     <Route exact path="/Store/men/product/:productId/cart/checkout" element={<Checkout />} />
+     <Route exact path="/Store/women/product/:productId/cart/checkout" element={<Checkout />} />
+     <Route exact path="/Store/accessories/product/:productId/cart/checkout" element={<Checkout />} />
+     <Route exact path="/Store/exam" element={<Exam />} />
        <Route path='*' element={<NotFound />} />
       
       </Routes>
