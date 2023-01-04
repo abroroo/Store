@@ -27,8 +27,8 @@ function App() {
         <Router>
        <Header />
         <Routes>
-        <Route path='*' element={<NotFound />} />
-      <Route exact path="/" element={<Home />} />
+        
+      <Route path="/" element={<Home />} />
       <Route exact path="/men/product/:productId" element={<ProductDetails />} />
       <Route exact path="/women/product/:productId" element={<ProductDetails />} />
       <Route exact path="/accessories/product/:productId" element={<ProductDetails />} />
@@ -43,6 +43,7 @@ function App() {
      <Route exact path="/women/product/:productId/cart/checkout" element={<Checkout />} />
      <Route exact path="/accessories/product/:productId/cart/checkout" element={<Checkout />} />
      <Route exact path="/exam" element={<Exam />} />
+       <Route path='*' element={<NotFound />} />
       
       </Routes>
       <Footer />
